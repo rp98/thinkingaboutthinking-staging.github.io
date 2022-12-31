@@ -1,2 +1,2 @@
 # thinkingaboutthinking-staging.github.io
-Scratchpad for unframed observations
+Scratchpad for observations
